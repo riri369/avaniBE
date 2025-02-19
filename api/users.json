@@ -1,0 +1,19 @@
+{
+    "name": "User Name Example",
+    "email": "user@example.com",
+    "password": "userpassword123"
+  }
+  
+ [ 
+    {
+      "_id": "65dc",
+      "name": "User1 Name Example",
+      "email": "user1@example.com"
+    },
+    {
+      "_id": "65db",
+      "name": "User2 Name Example",
+      "email": "user2@example.com"
+    }
+]
+  
